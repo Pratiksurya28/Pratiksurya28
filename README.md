@@ -7,7 +7,6 @@ I'm a passionate **Data Analyst** with a background in **Information Technology*
 ### 🚀 About Me
 
 - 🎓 B.E. in Information Technology | MVP’s KBT College of Engineering  
-- 💼 Completed data-driven projects like **Job Market Analysis**, **IMDB Movies SQL Analytics**, and **Automobile Insurance Dashboard**
 - 🧠 Skilled in **Data Cleaning, Data Visualization, Statistical Analysis, SQL Querying, and Dashboard Development**
 - 🛠️ Tools: **Power BI, Tableau, MySQL, Excel, Power BI Services, MySQL Workbench**
 - 📊 Passionate about transforming complex data into **clear, actionable business insights**
